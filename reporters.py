@@ -1,3 +1,7 @@
+#This is a program which allows media professionals to easily create 
+#vcf files with contact information of reporters, bloggers, and TV channel contacts. 
+#It employs concepts I learned on object oriented programming by using classes and inheritance. 
+
 #This is the original class where we can create media contacts 
 class General():
     def __init__(self, first_name, last_name, city, email):
